@@ -58,7 +58,7 @@ table{
 }
 .navlist a{
     text-decoration: none;
-    color: blue;
+    color: red;
 }
 
 .center{
@@ -95,7 +95,7 @@ background-color: rgb(129, 127, 125);
 
 .button1 {
 background-color:  #6352f5;
-color: black; 
+color: red; 
 }
 .button1:hover {
     background-color:#000000;
